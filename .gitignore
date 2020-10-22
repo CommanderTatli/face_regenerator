@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# pictures
+faces/
+.png
+
+# jupyter notebook
+.ipynb_checkpoints/
